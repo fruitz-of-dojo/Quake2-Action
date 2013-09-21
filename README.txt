@@ -1,3 +1,7 @@
+This is the source code for the MacOS X port of "ActionQuake 2". 
+
+From the original readme:
+
 SERVER/PLAYER DOCUMENTATION FOR ACTION 1.52
 
 
